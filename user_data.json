@@ -1,0 +1,102 @@
+{
+  "users": {
+    "guest": {
+      "password": "guest",
+      "created": "2024-01-01 00:00:00"
+    },
+    "player1": {
+      "password": "1234",
+      "created": "2024-01-01 00:00:00"
+    },
+    "justin": {
+      "password": "1234",
+      "created": "2026-03-30 19:47:59"
+    },
+    "jelaine": {
+      "password": "12345",
+      "created": "2026-03-30 20:13:10"
+    },
+    "justinnn": {
+      "password": "1234",
+      "created": "2026-03-31 05:36:07"
+    },
+    "jana": {
+      "password": "1234",
+      "created": "2026-03-31 05:50:46"
+    }
+  },
+  "scores": {
+    "guest": {
+      "high_score": 0,
+      "total_games": 1,
+      "total_score": 0,
+      "games_won": 0,
+      "best_combo": 5,
+      "levels_completed": [
+        false,
+        false,
+        false
+      ]
+    },
+    "player1": {
+      "high_score": 0,
+      "total_games": 0,
+      "total_score": 0,
+      "games_won": 0,
+      "best_combo": 0,
+      "levels_completed": [
+        false,
+        false,
+        false
+      ]
+    },
+    "justin": {
+      "high_score": 7120,
+      "total_games": 4,
+      "total_score": 18730,
+      "games_won": 1,
+      "best_combo": 17,
+      "levels_completed": [
+        true,
+        false,
+        false
+      ]
+    },
+    "jelaine": {
+      "high_score": 0,
+      "total_games": 0,
+      "total_score": 0,
+      "games_won": 0,
+      "best_combo": 0,
+      "levels_completed": [
+        false,
+        false,
+        false
+      ]
+    },
+    "justinnn": {
+      "high_score": 0,
+      "total_games": 0,
+      "total_score": 0,
+      "games_won": 0,
+      "best_combo": 0,
+      "levels_completed": [
+        false,
+        false,
+        false
+      ]
+    },
+    "jana": {
+      "high_score": 0,
+      "total_games": 0,
+      "total_score": 0,
+      "games_won": 0,
+      "best_combo": 0,
+      "levels_completed": [
+        false,
+        false,
+        false
+      ]
+    }
+  }
+}
